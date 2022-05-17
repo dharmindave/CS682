@@ -96,18 +96,14 @@ The datasets I worked on :-
        D) Column 4 :- Denotes the Sea Level Rise 
        
        Queries Performed For this Dataset:- 
-     1)  Median sea level in a particular month (Median of daily sea levels in a particular month)
-Median of (sea level at the 1st day of the month), (sea level at the 2nd day of the month), and (sea level at the last day of the month).
-Median sea level in a particular year (Median of daily sea levels in a particular year)
-Median of (sea level at 1/1), (sea level at 1/2), (sea level at 1/3), …, (sea level at 12/31).
-Yearly absolute rise in a particular year
-(Median sea level in December) - (Median sea level in January)
-Yearly relative (percentage) rise in a particular year
-[(Median sea level in December) - (Median sea level in January)]/(Median sea level in January)
-Average of yearly absolute rises from a particular start year to end year
-e.g., If start yr = 2000 and end yr = 2001, compute [(yearly absolute rise in 2000)+(yearly absolute rise in 2001)]/2
-Average of yearly relative (percentage) rises from a particular start year to end year
-e.g., If start yr = 2000 and end yr = 2001, compute [(yearly relative rise in 2000)+(yearly relative rise in 2001)]/2
+     1)  Median sea level in a particular month (Median of daily sea levels in a particular month).
+     2)  Median sea level in a particular year (Median of daily sea levels in a particular year).
+     3)  Yearly absolute rise in a particular year   (Median sea level in December) - (Median sea level in January).
+     4)  Yearly relative (percentage) rise in a particular year[(Median sea level in December) - (Median sea level in January)]/(Median sea level in January).
+     5)  Average of yearly absolute rises from a particular start year to end year
+         e.g., If start yr = 2000 and end yr = 2001, compute [(yearly absolute rise in 2000)+(yearly absolute rise in 2001)]/2
+     6) Average of yearly relative (percentage) rises from a particular start year to end year
+        e.g., If start yr = 2000 and end yr = 2001, compute [(yearly relative rise in 2000)+(yearly relative rise in 2001)]/2
        
 
 
