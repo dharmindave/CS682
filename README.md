@@ -144,8 +144,9 @@ The datasets I worked on :-
 
 
        Queries Performed For this Dataset:- 
-       1) Average Rising Sea Level in (cms) for the particular city .
-       2) Difference in rising Sea Level in for every 10 years from from 2000.
+       1) Average Rising Sea Level in (cms) for the particular city . (This query gives Average sea level Rise for the particular city in a span of year 2000 to year             2200 as given in the dataset . )
+       2) Difference in rising Sea Level in for every 10 years from from 2000.( Based on the given input this query performs the difference in sea level rise for year         2020 minus the sea level rise in year 2010 and consecutively for other years).
+ 
        To reference a particular city, have your server accept the name of a city (e.g. “Boston”) or a pair of latitude and logitude (e.g. “42.31440581852247, -              71.03651997292752", this is a lat-lon for UMass Boston.). When it receives a city name, it will retrieve and return the SLR data for that city. (Return an error        or null if it cannot find the SLR data for that city.) When the server receives a lat-lon pair, it will find the geographically closest city from that. For            example, if it receives (42.31440581852247, -71.03651997292752), it will judge the lat-lon is closest to Boston ((42.35, -71.05) in the dataset) and return the        SLR data for Boston. You can use GeoPy or any other library to calculate the distance between two lat-lon pairs.
        
 2) University Of Hauweii Dataset:- 
