@@ -25,7 +25,7 @@ How to run the server?
 5) For dataset1:
      URL: http://127.0.0.1:5000/dataset1 
      
-     ![Screenshot (44)](https://user-images.githubusercontent.com/78068339/168706030-6eb38248-9ef8-45fa-a85d-5bbca26ce809.png)
+    ![Screenshot (44)](https://user-images.githubusercontent.com/78068339/168710112-6235494b-f0f0-4701-8f06-e53b04071e65.png)
      
      ![Screenshot (46)](https://user-images.githubusercontent.com/78068339/168706467-7d7c40de-6085-4cae-bda1-2c681c05ba76.png)
      
