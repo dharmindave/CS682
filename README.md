@@ -49,6 +49,11 @@ How to run the server?
        Query3: http://127.0.0.1:5000/Absoluteriseinyear
                 
       ![Screenshot (49)](https://user-images.githubusercontent.com/78068339/168708336-25a8a9d7-ccd6-4462-9653-9cb3f851ac28.png)
+      
+      Query4: http://127.0.0.1:5000/Percentaageabsoluteriseinyear
+                
+      ![Screenshot (50)](https://user-images.githubusercontent.com/78068339/168708482-2e4ccefc-e292-4d7d-928d-a0a2dff82a1d.png)
+                
 
 
 
