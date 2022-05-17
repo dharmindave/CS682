@@ -37,7 +37,8 @@ How to run the server?
                 
 6) For Dataset 2:-
         I worked on 6queries for dataset2.
-        
+         URL: http://127.0.0.1:5000/Medianformonth
+         
      ![Screenshot (47)](https://user-images.githubusercontent.com/78068339/168710867-a135a938-c776-4e1b-9cc5-f3eff5ca4c06.png)
 
      
