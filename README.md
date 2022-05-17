@@ -24,7 +24,9 @@ How to run the server?
 
 5) For dataset1:
      URL: http://127.0.0.1:5000/dataset1 
+     
      ![Screenshot (44)](https://user-images.githubusercontent.com/78068339/168706030-6eb38248-9ef8-45fa-a85d-5bbca26ce809.png)
+     
      ![Screenshot (46)](https://user-images.githubusercontent.com/78068339/168706467-7d7c40de-6085-4cae-bda1-2c681c05ba76.png)
      
      If we pass the current city as "BOSTON" we get the output of Boston city.
@@ -52,6 +54,7 @@ How to run the server?
                 
 6) For Dataset 2:-I worked on 6queries for dataset2.
              Query1: http://127.0.0.1:5000/Medianformonth
+             
              ![Screenshot (47)](https://user-images.githubusercontent.com/78068339/168707975-773dd5df-bf9e-412b-ba61-5affebb96295.png)
              
              Code snippet for terminal:
@@ -74,6 +77,7 @@ How to run the server?
 
                 }'
                 Query3: http://127.0.0.1:5000/Absoluteriseinyear
+                
                 ![Screenshot (49)](https://user-images.githubusercontent.com/78068339/168708336-25a8a9d7-ccd6-4462-9653-9cb3f851ac28.png)
 
                 Code snippet for terminal:-
@@ -86,6 +90,7 @@ How to run the server?
                 }'
                 
                 Query4: http://127.0.0.1:5000/Percentaageabsoluteriseinyear
+                
                 ![Screenshot (50)](https://user-images.githubusercontent.com/78068339/168708482-2e4ccefc-e292-4d7d-928d-a0a2dff82a1d.png)
                 
                 Code snippet for terminal :
