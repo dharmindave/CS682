@@ -65,7 +65,9 @@ How to run the server?
                  "input_month":"10"
 
                 }'
+                
               Query2:- http://127.0.0.1:5000/Medianforyear
+              
               ![Screenshot (48)](https://user-images.githubusercontent.com/78068339/168708175-cc766b28-7646-4801-a24f-446c9f29f8c4.png)
 
                 Code snippet for terminal:
@@ -73,9 +75,8 @@ How to run the server?
                 --header 'Content-Type: application/json' \
                 --data-raw '{
                  "input_year":"2013"
-
-
                 }'
+                
                 Query3: http://127.0.0.1:5000/Absoluteriseinyear
                 
                 ![Screenshot (49)](https://user-images.githubusercontent.com/78068339/168708336-25a8a9d7-ccd6-4462-9653-9cb3f851ac28.png)
@@ -85,8 +86,6 @@ How to run the server?
                 --header 'Content-Type: application/json' \
                 --data-raw '{
                  "input_year":"2013"
-
-
                 }'
                 
                 Query4: http://127.0.0.1:5000/Percentaageabsoluteriseinyear
@@ -98,9 +97,8 @@ How to run the server?
                 --header 'Content-Type: application/json' \
                 --data-raw '{
                  "input_year":"2013"
-
-
                 }'
+                
                 Query5: http://127.0.0.1:5000/Avgofabsrisestarttoendyear
                 
                 ![Screenshot (51)](https://user-images.githubusercontent.com/78068339/168708714-2de9cbf8-1dee-4fd8-90bd-7e1129c112f8.png)
@@ -111,8 +109,6 @@ How to run the server?
                 --data-raw '{
                  "input_year":"2013",
                  "end_year":"2015"
-
-
                 }'
                 
                 
@@ -126,8 +122,6 @@ How to run the server?
                 --data-raw '{
                  "input_year":"2013",
                  "end_year":"2015"
-
-
                 }'
 
 
