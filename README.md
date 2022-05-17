@@ -80,6 +80,15 @@ For http://127.0.0.1:5000/dataset1  :-
 ```                                    
 
 
+For http://127.0.0.1:5000/dataset1  :- 
+```
+{
+    "city":null,
+    "lat":"40.7",
+    "lon":"-74.01"
+}
+``` 
+
 
 For http://127.0.0.1:5000/Medianformonth  :- 
 ```
