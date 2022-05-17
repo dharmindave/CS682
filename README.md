@@ -1,6 +1,7 @@
-# CS682
-Sea Level Rising Project
+# Sea Level Rising Project
+
 Required Software :- Python3, Postman (API Call)
+
 Libraries required:- Flask, Flask_restful, wget,Pandas, os, Webbrowser, Requests,sys
 
 
