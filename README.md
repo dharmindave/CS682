@@ -52,7 +52,8 @@ How to run the server?
 
                 }'     
                 
-6) For Dataset 2:-I worked on 6queries for dataset2.
+6) For Dataset 2:-
+        I worked on 6queries for dataset2.
              Query1: http://127.0.0.1:5000/Medianformonth
              
              ![Screenshot (47)](https://user-images.githubusercontent.com/78068339/168707975-773dd5df-bf9e-412b-ba61-5affebb96295.png)
@@ -63,7 +64,6 @@ How to run the server?
                 --data-raw '{
                  "input_year":"2013",
                  "input_month":"10"
-
                 }'
                 
               Query2:- http://127.0.0.1:5000/Medianforyear
