@@ -61,7 +61,7 @@ How to run the server?
                 
        Query6:- http://127.0.0.1:5000/Avgofperrisestarttoendyear
                 
-       ![Screenshot (52)](https://user-images.githubusercontent.com/78068339/168708930-367e8598-7c80-485a-8d04-db545c58b197.png)
+      ![Screenshot (52)](https://user-images.githubusercontent.com/78068339/168708930-367e8598-7c80-485a-8d04-db545c58b197.png)
                 
 
 
