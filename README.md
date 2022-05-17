@@ -25,9 +25,33 @@ How to run the server?
      URL: http://127.0.0.1:5000/dataset1 
      ![Screenshot (44)](https://user-images.githubusercontent.com/78068339/168706030-6eb38248-9ef8-45fa-a85d-5bbca26ce809.png)
      ![Screenshot (46)](https://user-images.githubusercontent.com/78068339/168706467-7d7c40de-6085-4cae-bda1-2c681c05ba76.png)
+     
+     If we pass the current city as "BOSTON" we get the output of Boston city.
+     If we pass the lat-lon pair it finds the nearest city and the prints output of that two cities.
+     
+     Alternate method directly run on terminal:-
+     For lat-lon pair:
+                      curl --location --request POST 'http://127.0.0.1:5000/dataset1' \
+                      --header 'Content-Type: application/json' \
+                        --data-raw '{
+                          "city":null,
+                          "lat":"42.35",
+                           "lon":"-71.06"
+
+                        }'
+     For city:
+              curl --location --request POST 'http://127.0.0.1:5000/dataset1' \
+                --header 'Content-Type: application/json' \
+                --data-raw '{
+                  "city":"boston",
+                  "lat":null,
+                   "lon":null
+
+                }'     
+                
+                
 
 
-    
 The datasets I worked on :- 
 1) Tides and Currents Nooa Gov. Dataset:- 
        Link for the dataset :- https://tidesandcurrents.noaa.gov/publications/techrpt083.csv
