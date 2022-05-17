@@ -59,7 +59,10 @@ How to run the server?
       ![Screenshot (51)](https://user-images.githubusercontent.com/78068339/168708714-2de9cbf8-1dee-4fd8-90bd-7e1129c112f8.png)
                 
                 
-
+       Query6:- http://127.0.0.1:5000/Avgofperrisestarttoendyear
+                
+       ![Screenshot (52)](https://user-images.githubusercontent.com/78068339/168708930-367e8598-7c80-485a-8d04-db545c58b197.png)
+                
 
 
      
