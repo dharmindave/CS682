@@ -78,8 +78,50 @@ For http://127.0.0.1:5000/dataset1  :-
   
 }
 ```                                    
-                           
-          
+
+
+
+For http://127.0.0.1:5000/Medianformonth  :- 
+```
+{
+    "input_year":"2013",
+    "input_month":"11"
+}
+```  
+
+For http://127.0.0.1:5000/Medianforyear  :- 
+```
+{
+    "input_year":"2013"
+}
+``` 
+For http://127.0.0.1:5000/Absoluteriseinyear  :- 
+```
+{
+    "input_year":"2013"
+}
+``` 
+For http://127.0.0.1:5000/Percentaageabsoluteriseinyear  :- 
+```
+{
+    "input_year":"2013"
+}
+``` 
+For http://127.0.0.1:5000/Avgofabsrisestarttoendyear  :- 
+```
+{
+    "input_year":"2013",
+    "end_year":"2014"
+}
+``` 
+
+For http://127.0.0.1:5000/Avgofperrisestarttoendyear  :- 
+```
+{
+    "input_year":"2013",
+    "end_year":"2014"
+}
+``` 
 The datasets I worked on :- 
 1) Tides and Currents Nooa Gov. Dataset:- 
        Link for the dataset :- https://tidesandcurrents.noaa.gov/publications/techrpt083.csv
