@@ -45,6 +45,11 @@ How to run the server?
       Query 2:- http://127.0.0.1:5000/Medianforyear
               
       ![Screenshot (48)](https://user-images.githubusercontent.com/78068339/168708175-cc766b28-7646-4801-a24f-446c9f29f8c4.png)
+      
+       Query3: http://127.0.0.1:5000/Absoluteriseinyear
+                
+      ![Screenshot (49)](https://user-images.githubusercontent.com/78068339/168708336-25a8a9d7-ccd6-4462-9653-9cb3f851ac28.png)
+
 
 
      
