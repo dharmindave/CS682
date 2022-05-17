@@ -56,7 +56,7 @@ How to run the server?
       
        Query5: http://127.0.0.1:5000/Avgofabsrisestarttoendyear
                 
-       ![Screenshot (51)](https://user-images.githubusercontent.com/78068339/168708714-2de9cbf8-1dee-4fd8-90bd-7e1129c112f8.png)
+      ![Screenshot (51)](https://user-images.githubusercontent.com/78068339/168708714-2de9cbf8-1dee-4fd8-90bd-7e1129c112f8.png)
                 
                 
 
